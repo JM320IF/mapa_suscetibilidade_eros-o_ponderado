@@ -1,7 +1,7 @@
 # Mapa de Suscetibilidade à Erosão com Dados Topográficos e Qualidade de Pastagem
 
 ## Autor
-João Marcos Gonçalves
+João Marcos Gonçalves Silva
 
 ## Contato
 [joaogs.geo@gmail.com](mailto:joaogs.geo@gmail.com)
